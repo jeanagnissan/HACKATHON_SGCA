@@ -77,6 +77,24 @@ input {
     /* margin-bottom: 0em; */
 }
 
+
+
+.loginsubmit-btn {
+    background: transparent;
+    border: none;
+    border-left: 1px solid rgba(255, 255, 255, .3);
+    border-top: 1px solid rgba(255, 255, 255, .3);
+    padding: 1rem;
+    width: 200px;
+    margin-top: -9px;
+    color: white;
+    border-radius: 50px;
+    backdrop-filter: blur (5px);
+    -webkit-backdrop-filter: blur (5px);
+    -webkit-backdrop-filter: blur(5px);
+    box-shadow: 4px 4px 60px rgba(0, 0, 0, .2);
+}
+
 /* pour couleur du text dans champ */
 ::placeholder {
     color: white;
