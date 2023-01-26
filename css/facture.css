@@ -1,0 +1,23 @@
+.container{
+   
+  justify-content: center;
+  margin-right: 200px;
+  padding: 3px;
+}
+
+#titre{
+ 
+  margin-right: 00px;
+}
+
+#facture{
+  width: 500px;
+}
+
+input{
+  align-content: center;
+}
+
+#button{
+  margin-left: 100px;
+}

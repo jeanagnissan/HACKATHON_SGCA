@@ -1,0 +1,43 @@
+.container{
+    padding: 3px;
+    margin-right: 200px;
+    /*align-content: center;*/
+        align-items: center;
+        justify-content: center;
+
+}
+#time {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    text-shadow:
+     -1px -1px 0 #000,
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+       margin: 10px; 
+       width: 600px;
+  }
+
+  #taille{
+    margin: 10px;
+    width: 600px;
+    
+  }
+
+  #button{
+    margin-left: 300px;
+    padding: 10;
+  }
+
+#titlepayement{
+    text-align: center;
+    padding-right: 90px;
+    margin: 20px;
+  }
+
+  #lebelinput{
+    margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  }
